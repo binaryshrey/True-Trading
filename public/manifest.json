@@ -1,0 +1,142 @@
+[
+  {
+    "ticker": "XBT",
+    "label": "BTC",
+    "file": "/data/BTC.json"
+  },
+  {
+    "ticker": "ETH",
+    "label": "ETH",
+    "file": "/data/ETH.json"
+  },
+  {
+    "ticker": "XDG",
+    "label": "DOGE",
+    "file": "/data/DOGE.json"
+  },
+  {
+    "ticker": "XRP",
+    "label": "XRP",
+    "file": "/data/XRP.json"
+  },
+  {
+    "ticker": "LTC",
+    "label": "LTC",
+    "file": "/data/LTC.json"
+  },
+  {
+    "ticker": "XLM",
+    "label": "XLM",
+    "file": "/data/XLM.json"
+  },
+  {
+    "ticker": "XMR",
+    "label": "XMR",
+    "file": "/data/XMR.json"
+  },
+  {
+    "ticker": "ADA",
+    "label": "ADA",
+    "file": "/data/ADA.json"
+  },
+  {
+    "ticker": "BCH",
+    "label": "BCH",
+    "file": "/data/BCH.json"
+  },
+  {
+    "ticker": "LINK",
+    "label": "LINK",
+    "file": "/data/LINK.json"
+  },
+  {
+    "ticker": "ATOM",
+    "label": "ATOM",
+    "file": "/data/ATOM.json"
+  },
+  {
+    "ticker": "ETC",
+    "label": "ETC",
+    "file": "/data/ETC.json"
+  },
+  {
+    "ticker": "ZEC",
+    "label": "ZEC",
+    "file": "/data/ZEC.json"
+  },
+  {
+    "ticker": "DASH",
+    "label": "DASH",
+    "file": "/data/DASH.json"
+  },
+  {
+    "ticker": "EOS",
+    "label": "EOS",
+    "file": "/data/EOS.json"
+  },
+  {
+    "ticker": "XTZ",
+    "label": "XTZ",
+    "file": "/data/XTZ.json"
+  },
+  {
+    "ticker": "QTUM",
+    "label": "QTUM",
+    "file": "/data/QTUM.json"
+  },
+  {
+    "ticker": "WAVES",
+    "label": "WAVES",
+    "file": "/data/WAVES.json"
+  },
+  {
+    "ticker": "BAT",
+    "label": "BAT",
+    "file": "/data/BAT.json"
+  },
+  {
+    "ticker": "ICX",
+    "label": "ICX",
+    "file": "/data/ICX.json"
+  },
+  {
+    "ticker": "LSK",
+    "label": "LSK",
+    "file": "/data/LSK.json"
+  },
+  {
+    "ticker": "MLN",
+    "label": "MLN",
+    "file": "/data/MLN.json"
+  },
+  {
+    "ticker": "NANO",
+    "label": "NANO",
+    "file": "/data/NANO.json"
+  },
+  {
+    "ticker": "OMG",
+    "label": "OMG",
+    "file": "/data/OMG.json"
+  },
+  {
+    "ticker": "PAXG",
+    "label": "PAXG",
+    "file": "/data/PAXG.json"
+  },
+  {
+    "ticker": "REP",
+    "label": "REP",
+    "file": "/data/REP.json"
+  },
+  {
+    "ticker": "SC",
+    "label": "SC",
+    "file": "/data/SC.json"
+  },
+  {
+    "ticker": "GNO",
+    "label": "GNO",
+    "file": "/data/GNO.json"
+  }
+]

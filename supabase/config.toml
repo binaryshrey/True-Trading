@@ -1,0 +1,22 @@
+project_id = "vibrbognfmlkkycohaye"
+
+[functions.airia-evolve]
+verify_jwt = false
+
+[functions.generate-population]
+verify_jwt = false
+
+[functions.fetch-market-data]
+verify_jwt = false
+
+[functions.update-behavior]
+verify_jwt = false
+
+[functions.alpaca-trade]
+verify_jwt = false
+
+[functions.fetch-fred-data]
+verify_jwt = false
+
+[functions.fetch-stock-data]
+verify_jwt = false
